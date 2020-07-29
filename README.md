@@ -1,4 +1,4 @@
-# Shopear Genome: Inferencia y procesamiento de datos para la conformación de un perfil psicográfico
+# Shopear Genome: Procesamiento de datos de comportamiento para la conformación de un perfil psicográfico
 ### 2015
 ==============
 
