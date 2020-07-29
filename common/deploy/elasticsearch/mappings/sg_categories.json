@@ -1,0 +1,30 @@
+{
+    "index": "sg",
+    "type": "sg_categories",
+    "body": {
+        "sg_categories": {
+            "_all" : { "enabled" : false },
+            "_id": { "path": "id" },
+            "dynamic": false,
+            "properties": {
+                "id": { "type": "string", "index": "not_analyzed" },
+                "name": {
+                    "type": "string",
+                    "fields": {
+                        "value": { "type": "string" },
+                        "value_na": { "type": "string", "index": "not_analyzed" },
+                        "value_raw": { "type": "string", "analyzer": "sortable" }
+                    }
+                },
+                "fb_categories": {
+                    "type": "string",
+                    "fields": {
+                        "value": { "type": "string" },
+                        "value_na": { "type": "string", "index": "not_analyzed" },
+                        "value_raw": { "type": "string", "analyzer": "sortable" }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "index": "sg",
+    "type": "sg_categories",
+    "records": [
+        {
+            "id": "1",
+            "name": "Moda Masculina",
+            "fb_categories": [
+                "Clothing",
+                "Color",
+                "Shopping/retail",
+                "Bags/luggage",
+                "Local business",
+                "Jewelry/watches"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Moda Femenina",
+            "fb_categories": [
+                "Clothing",
+                "Color",
+                "Shopping/retail",
+                "Bags/luggage",
+                "Local business",
+                "Jewelry/watches"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Niños",
+            "fb_categories": [
+                "Baby goods/kids goods",
+                "Games/toys",
+                "Teens/kids website",
+                "Teacher",
+                "School",
+                "School sports team",
+                "Education",
+                "Education website"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Mascotas",
+            "fb_categories": [
+                "Pet services",
+                "Pet supplies",
+                "Animal",
+                "Animal breed"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Hogar y decoración",
+            "fb_categories": [
+                "Home improvement",
+                "Home/garden website",
+                "Household supplies",
+                "Kitchen/cooking",
+                "Neighborhood",
+                "Patio/garden",
+                "Furniture"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Tecnología",
+            "fb_categories": [
+                "App",
+                "Electronics",
+                "Software",
+                "Telecommunication",
+                "Camera/photo",
+                "Website",
+                "App",
+                "Software",
+                "Telecommunication",
+                "Computers",
+                "Computers/internet website",
+                "Computers/technology",
+                "Internet/software",
+                "Electronics",
+                "Energy/utility",
+                "Musical instrument",
+                "Playlist",
+                "Record label",
+                "Studio",
+                "Music",
+                "Music video",
+                "Song",
+                "Tv"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Arte y diseño",
+            "fb_categories": [
+                "Artist",
+                "Arts/entertainment/nightlife",
+                "Arts/humanities website",
+                "Home decor",
+                "Museum/art gallery",
+                "Dancer",
+                "Writer",
+                "Camera/photo"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Libros",
+            "fb_categories": [
+                "Author",
+                "Book",
+                "Book genre",
+                "Book store",
+                "Editor",
+                "Library"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Música",
+            "fb_categories": [
+                "Playlist",
+                "Record label",
+                "Studio",
+                "Music",
+                "Music video",
+                "Song",
+                "Tv",
+                "Music",
+                "Music award",
+                "Music chart",
+                "Music video",
+                "Musical genre",
+                "Musician/band",
+                "Song",
+                "Album"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Películas",
+            "fb_categories": [
+                "Movie",
+                "Movie general",
+                "Movie genre",
+                "Movie theater",
+                "Movies/music",
+                "Tv genre",
+                "Tv network",
+                "Tv/movie award",
+                "Tv channel",
+                "Tv show",
+                "Actor/director",
+                "Producer"
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Juegos",
+            "fb_categories": [
+                "Games/toys",
+                "Teens/kids website",
+                "Baby goods/kids goods"
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Deportes y aire libre",
+            "fb_categories": [
+                "Outdoor gear/sporting goods",
+                "Sport",
+                "Coach",
+                "Sports league",
+                "Sports venues",
+                "Sports/recreation/activitie",
+                "University",
+                "Athlete",
+                "Amateur sports team",
+                "School sports team",
+                "Professional sports team"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Manualidades y artesanías",
+            "fb_categories": [
+                "Artist",
+                "Arts/humanities website"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Autos y vehículos",
+            "fb_categories": [
+                "App",
+                "Electronics",
+                "Software",
+                "Telecommunication",
+                "Camera/photo"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Gastronomía",
+            "fb_categories": [
+                "Chef",
+                "Wine/spirits",
+                "Food/grocery",
+                "Food/beverages",
+                "Drink",
+                "Restaurant/cafe"
+            ]
+        },
+        {
+            "id": "16",
+            "name": "Joyas y bijouterie",
+            "fb_categories": [
+                "Automotive",
+                "Health/beauty",
+                "Jewelry/watches",
+                "Mining/materials"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Viajes y lugares",
+            "fb_categories": [
+                "Travel/leisure"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Salud y belleza",
+            "fb_categories": [
+                "Automotive",
+                "Health/beauty",
+                "Health/medical/pharmaceuticals",
+                "Health/medical/pharmacy",
+                "Health/wellness website",
+                "Hospital/clinic",
+                "Spas/beauty/personal care",
+                "Diseases",
+                "Doctor",
+                "Anatomical structure",
+                "Vitamins/supplements",
+                "Food",
+                "Food/beverages",
+                "Food/grocery",
+                "Medical procedure"
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Otros",
+            "fb_categories": [
+                "Biotechnology",
+                "Cause",
+                "Chemicals",
+                "Church/religious organization",
+                "City",
+                "Commercial equipment",
+                "Community",
+                "Community organization",
+                "Community/government",
+                "Company",
+                "Consulting/business services",
+                "Continent",
+                "Country",
+                "Degree",
+                "Episode",
+                "Field of study",
+                "Interest",
+                "Journalist",
+                "Landmark",
+                "Language",
+                "Media/news/publishing",
+                "Monarch",
+                "News personality",
+                "News/media website",
+                "Non-governmental organization (ngo)",
+                "Non-profit organization",
+                "Organization",
+                "Other",
+                "Personal blog",
+                "Personal website",
+                "Political ideology",
+                "Political organization",
+                "Political party",
+                "Politician",
+                "Public figure",
+                "Public places",
+                "Publisher",
+                "Real estate",
+                "Reference website",
+                "Regional website",
+                "Religion",
+                "Retail and consumer merchandise",
+                "Science website",
+                "Society/culture website",
+                "State/province/region",
+                "Appliances",
+                "Bank/financial institution",
+                "Bank/financial services",
+                "Building materials",
+                "Business person",
+                "Business services",
+                "Business/economy website",
+                "Aerospace/defense",
+                "Engineering/construction",
+                "Farming/agriculture",
+                "Government official",
+                "Government organization",
+                "Government website",
+                "Industrials",
+                "Insurance company",
+                "Lawyer",
+                "Legal/law",
+                "Office supplies",
+                "Product/service",
+                "Professional services",
+                "Small business",
+                "Work position",
+                "Tools/equipment"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Entretenimiento",
+            "fb_categories": [
+                "Author",
+                "Book",
+                "Book genre",
+                "Book store",
+                "Editor",
+                "Library",
+                "Playlist",
+                "Record label",
+                "Studio",
+                "Music",
+                "Music video",
+                "Song",
+                "Tv",
+                "Music",
+                "Music award",
+                "Music chart",
+                "Music video",
+                "Musical genre",
+                "Musician/band",
+                "Song",
+                "Album",
+                "Movie",
+                "Movie general",
+                "Movie genre",
+                "Movie theater",
+                "Movies/music",
+                "Tv genre",
+                "Tv network",
+                "Tv/movie award",
+                "Tv channel",
+                "Tv show",
+                "Actor/director",
+                "Producer",
+                "Games/toys",
+                "Teens/kids website",
+                "Baby goods/kids goods"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"index": "sg",
+	"type": "sessions",
+	"body": {
+		"sessions": {
+            "_all" : { "enabled" : false },
+			"dynamic": false,
+			"_ttl": {
+				"enabled": "true",
+				"default": "1d"
+			}
+		}
+	}
+}

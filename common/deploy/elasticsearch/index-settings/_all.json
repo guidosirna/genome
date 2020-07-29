@@ -1,0 +1,26 @@
+{
+	"index": ["sg"],
+	"body": {
+		"index": {
+            "settings" : {
+                "index" : {
+                    "number_of_shards" : 2
+                }
+            },
+			"analysis": {
+				"analyzer": {
+					"sortable": {
+						"type": "custom",
+						"tokenizer": "keyword",
+						"filter": ["lowercase"]
+					},
+					"path_hierarchy": {
+						"type": "custom",
+						"tokenizer": "path_hierarchy",
+						"filter": ["lowercase"]
+					}
+				}
+			}
+		}
+	}
+}

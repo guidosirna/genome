@@ -1,0 +1,227 @@
+{
+    "index": "sg",
+    "type": "sg_genes",
+    "records": [
+        {
+            "id": "0",
+            "type": "Lifestyle",
+            "name": "Action Movies & Fireworks",
+            "description": "AMFs usually enjoy powerful and thrilling sensations. They like intense music and will always prefer a thrilling and adventurous movie over a dull romantic comedy. They live a fast paced life, driving (or fantasizing about driving) fast cars or motorcycles. While some AMFs like extreme sports and will seek thrill from skydiving or bungee jumping, others will settle for a good thriller. But either way, AMFs like it when their adrenaline is pumping.",
+            "tipical_likes": ["https://www.facebook.com/255312577915886", "https://www.facebook.com/109741662526528", "https://www.facebook.com/457071544317264", "https://www.facebook.com/104266592953439", "https://www.facebook.com/58201805768", "https://www.facebook.com/284300968292457", "https://www.facebook.com/49436315526"],
+            "tipical_genders": ["male+"],
+            "age_min": 17,
+            "age_max": 45,
+            "related_genes": ["5", "6", "17"]
+        },
+        {
+            "id": "1",
+            "type": "Values",
+            "name": "Activist",
+            "description": "Activists usually take an interest in political, social and environmental issues, both locally and worldwide. They usually critique the current state of things, and tend to be vocal in trying to promote the change they believe in. Normally activists have a clear moral stance about different topics, supporting their desired Causes and following the actions.<br>\nUsually activists see great importance in being informed with the latest news (usually not through mainstream media), and they see the internet as an important tool for communication and dissemination of information. Activists may 'follow' the activity of political figures, NGOs, non-profit organizations, journalists, influential bloggers and the like.",
+            "tipical_likes": ["https://www.facebook.com/339188887615", "https://www.facebook.com/17414523278", "https://www.facebook.com/20373776304", "https://www.facebook.com/21111629328", "https://www.facebook.com/282029011902929", "https://www.facebook.com/8059908374", "https://www.facebook.com/112791451329"],
+            "tipical_genders": ["male", "female"],
+            "age_min": 18,
+            "age_max": 37,
+            "related_genes": ["10", "14", "19"]
+        },
+        {
+            "id": "2",
+            "type": "Hobbies",
+            "name": "Artistic",
+            "description": "Artistic people like different types of art and they appreciate beauty in general. They tend to be crafty and creative and many are talented photographers, painters or sculptors, even if not professional ones. Artistic people have a special sensitivity to aesthetics and tend to be highly expressive and original - they tend to solve their problems creatively, and can always offer a refreshing perspective. Artistic types are known for their love of nature, but some may enjoy finding beauty in busy urban surroundings. They appreciate arts, music, drama and dance and tend to be lively and enthusiastic.<br>\nArtistic people tend to 'follow' art-related topics, museum pages, artists, musicians, architecture topics, festivals and cultural events. Younger Artistics enjoy image making and social photography apps as Instagram, VscoCam and the like.",
+            "tipical_likes": ["https://www.facebook.com/135622170119", "https://www.facebook.com/56582514302", "https://www.facebook.com/100002177376422", "https://www.facebook.com/100001415914172", "https://www.facebook.com/66087696896", "https://www.facebook.com/430894850091", "https://www.facebook.com/214774261877911"],
+            "tipical_genders": ["female+"],
+            "age_min": 18,
+            "age_max": 50,
+            "related_genes": ["3", "5", "11"]
+        },
+        {
+            "id": "3",
+            "type": "Lifestyle",
+            "name": "Brand Aware",
+            "description": "People who are Brand Aware know their brands and tend to trust them. Most are interested in fashion and try to be aware of the new trends. They shop for products and services based on brand names and usually follow brands on the Web. They love shopping and usually shop smart, knowing exactly what they want and where to get it. Usually they are not impulsive shoppers, although certain brands may tempt them. They are probably proficient online shoppers and are not afraid of ordering different products on the web.<br>\nThe brand-awareness of this type of people goes beyond the fashion shopping and includes branded cafes, furniture design, travel-related services (hotels, spas, etc), food, electronics and so on.",
+            "tipical_likes": ["https://www.facebook.com/22516413022", "https://www.facebook.com/8305888286", "https://www.facebook.com/427275993997928", "https://www.facebook.com/15818120260", "https://www.facebook.com/299308616842040", "https://www.facebook.com/68093208973", "https://www.facebook.com/580618325313053", "https://www.facebook.com/6220048374", "https://www.facebook.com/9994477881"],
+            "tipical_genders": ["female+"],
+            "age_min": 21,
+            "age_max": 55,
+            "related_genes": ["2", "5", "17"]
+        },
+        {
+            "id": "4",
+            "type": "Lifestyle",
+            "name": "Digital Socializer",
+            "description": "Digital Socializers are very active online. They regularly communicate with their friends via different social networks and mobile apps. They constantly share, comment, text, like or upload content as a part of their day to day communication with others. Many DSs connect to the digital sphere early in the morning and use it extensively throughout their day.<br>\nMost of the Digital Socializers have many online friends (some they have never actually met), and even their communication with their close friends and family members is getting more and more dependent on digital media.<br>Digital Socializers are typically active on Facebook, Instagram, Twitter, Tumblr; listening to and sharing music on Spotify, Jango, Dizzer; sharing content via Pinterest, Stumble upon; and are skyping and whatsuping with the world on a daily basis.",
+            "tipical_likes": ["https://www.facebook.com/280034132055819", "https://www.facebook.com/278029242253904", "https://www.facebook.com/92689703737", "https://www.facebook.com/29282006975", "https://www.facebook.com/8026914587", "https://www.facebook.com/240229921942", "https://www.facebook.com/181953236429"],
+            "tipical_genders": ["female", "male"],
+            "age_min": 16,
+            "age_max": 37,
+            "related_genes": ["7", "8", "9"]
+        },
+        {
+            "id": "5",
+            "type": "Values",
+            "name": "Dreamer",
+            "description": "Dreamers like to dive into their inner-world, which is usually filled with magic, fantasy and charm. They tend to be independent and sometimes prefer to keep to themselves. They are usually very creative and imaginative people, who appreciate movies and books that deal with distant and fantastical worlds.<br>\nDreamers are known as abstract thinkers and they usually have an idealistic outlook on life. They might be bored with the mundane existence, but can easily sink into a new and exciting inner-world.<br>\nDreamer's 'paradise' is in the happiness of escape to the magical worlds - whether it is a reality tv show portraying a celebrity, a coming-of-age or a thrilling book or film, a photo album of a paradise-like destination.",
+            "tipical_likes": ["https://www.facebook.com/107641979264998", "https://www.facebook.com/108444775844463", "https://www.facebook.com/160617097307237", "https://www.facebook.com/108611449164000", "https://www.facebook.com/469204719765341", "https://www.facebook.com/394085014001801", "https://www.facebook.com/253591661347566", "https://www.facebook.com/348679285214358"],
+            "tipical_genders": ["female+"],
+            "age_min": 16,
+            "age_max": 35,
+            "related_genes": ["0", "6", "17"]
+        },
+        {
+            "id": "6",
+            "type": "Lifestyle",
+            "name": "Alternative",
+            "description": "Alternative people see themselves as different from the perceived norm, maybe even as non-conformists who oppose the mainstream culture and value counter-culture, progressive politics, an appreciation of art and indie-rock, creativity, intelligence, and witty banter\nindependent thinking, They try to lead an original lifestyle, not dictated by mass-media, the state or the politicians. Alternative people tend to appreciate irony and understand the importance of criticism. They usually dislike pop culture, and see non-mainstream music, movies and philosophy as an important part of their lives.<br>\nThey may see themselves as close to a specific sub-culture more than to another, but ultimately they tend to cherish the right of being true to their inner self. Alternative people probably have non-conservative worldviews and they strongly support values like equality, civil rights and freedom of speech.<br>\nOften wise, Alternative people are style aficionados, having a pronounced sensitivity to the way they look. Examples include: hipster style, rocker style, boho style, grundge etc.",
+            "tipical_likes": ["https://www.facebook.com/108147582546487", "https://www.facebook.com/237437860453", "https://www.facebook.com/7310480740", "https://www.facebook.com/152513780224", "https://www.facebook.com/25297200265", "https://www.facebook.com/492221284166789", "https://www.facebook.com/143781792342828", "https://www.facebook.com/80749331970"],
+            "tipical_genders": ["female", "male"],
+            "age_min": 15,
+            "age_max": 32,
+            "related_genes": ["0", "5", "14"]
+        },
+        {
+            "id": "7",
+            "type": "Values",
+            "name": "Open to New Experiences",
+            "description": "People who are Open to New Experiences constantly seek out new approaches and perspectives that expose strengths, weaknesses and boundaries. Open to New Experiences types are explorers, on a journey to experience a better, more authentic, more fulfilling life. They have a rich imagination and a constant urge to learn. They are highly inquisitive and original, and they usually prefer to explore new and exciting territories. People who are open to new experiences tend to be very open minded and creative, and they appreciate those traits in others. They have a broad taste in music, books and movies, and they probably enjoy different types of art. They see themselves as friendly and outgoing and are usually very communicative.<br>\nIt is observed that people who are Open to New Experiences tend to be rather liberal and tolerant when it comes to political views or cultural preferences, do not get 'stuck' to an idea, ready to have an open dialog on a variety of topics (try out new experience, listen to various genres of music, etc.).",
+            "tipical_likes": ["https://www.facebook.com/21516776437", "https://www.facebook.com/114963478516004", "https://www.facebook.com/83865976093", "https://www.facebook.com/110886161453", "https://www.facebook.com/8062627951", "https://www.facebook.com/21218780346", "https://www.facebook.com/49436315526"],
+            "tipical_genders": ["female", "male"],
+            "age_min": 18,
+            "age_max": 35,
+            "related_genes": ["8", "9", "10"]
+        },
+        {
+            "id": "8",
+            "type": "Values",
+            "name": "Fun Loving",
+            "description": "Fun Loving people usually enjoy a good laugh. They like comedy, stand-up or practically any good humorous content. They tend to use the internet to find funny videos or memes, and they may have even uploaded a funny clip or photo themselves. They like hanging out with their friends and they're always happy to meet new ones. They are probably quite cheerful and energetic, and they tend to concentrate on the positive and see the humorous aspects of life. Fun Loving individuals are fond of going out, participating in nightlife activities, visiting restaurants, bars, concerts and other lively events.<br> In entertainment, Fun Loving people are the fans of good comedy, 'light' music, Vine and YouTube fun videos, etc.",
+            "tipical_likes": ["https://www.facebook.com/22934684677", "https://www.facebook.com/74089565764", "https://www.facebook.com/115252951818144", "https://www.facebook.com/105939016107693", "https://www.facebook.com/7976226799", "https://www.facebook.com/243937162372105", "https://www.facebook.com/194543293971087"],
+            "tipical_genders": ["female", "male"],
+            "age_min": 16,
+            "age_max": 45,
+            "related_genes": ["7", "9", "6"]
+        },
+        {
+            "id": "9",
+            "type": "Values",
+            "name": "Techie",
+            "description": "Techies are passionate about new technologies. They like knowing how things work, and they are always excited to see the next technological advancement. They love gadgets and probably have a drawer full of old ones, one on the desk and one in their pocket. They have definitely picked sides in the ongoing iphone-Android battle. Many techies are science enthusiasts and many lead careers in programming and computing.<br>Techies are exceptionally good in navigating the net-maze. They usually cling to their smart-phone and know how to get the most out of it.<br>\nSome Techies tend to be fond of gaming, are the avid users of social media and productivity apps. Traditionally, Techies non-tech favorites include Sci Fi and Fantasy (books, movies and TV), comics, blogs, cars, etc.",
+            "tipical_likes": ["https://www.facebook.com/8062627951", "https://www.facebook.com/523483941025424", "https://www.facebook.com/60510727180", "https://www.facebook.com/74133697733", "https://www.facebook.com/193453547355388", "https://www.facebook.com/62365107362", "https://www.facebook.com/122908054392375"],
+            "tipical_genders": ["male+"],
+            "age_min": 21,
+            "age_max": 47,
+            "related_genes": ["7", "8", "10"]
+        },
+        {
+            "id": "10",
+            "type": "Values",
+            "name": "Knowledge Seeker",
+            "description": "Knowledge Seekers tend to read a lot of books, newspapers and magazines, and they continually browse different websites for new and interesting information. They usually remember what they have read, and they tend to integrate ideas from different sources. They tend to be sharp minded and to think analytically and they enjoy a good intellectual discussion, be it about politics, culture, media, technology or art. Knowledge Seekers get bored easily, but can always find new and exciting subjects to ponder about. They tend to be creative and many of them enjoy writing. Most Knowledge Seekers have an academic degree, or are planning to have one, and some are brilliant autodidacts.<br>\nThe examples of 'likes' of the Knowledge Seekers include documentaries, world's history and politics, science, religion, philosophy, global politics, arts and so on.",
+            "tipical_likes": ["https://www.facebook.com/123621854564", "https://www.facebook.com/6013004059", "https://www.facebook.com/21111629328", "https://www.facebook.com/320917064624761", "https://www.facebook.com/480164368705460", "https://www.facebook.com/230837303592", "https://www.facebook.com/22297920245", "https://www.facebook.com/14408401557"],
+            "tipical_genders": ["male", "female"],
+            "age_min": 25,
+            "age_max": 55,
+            "related_genes": ["14", "1", "6"]
+        },
+        {
+            "id": "11",
+            "type": "Values",
+            "name": "Romantic",
+            "description": "A romantic is a person who believes in romanticism, which is like a philosophy on life. Romantics love nature, old things like castles and churches, love poetry and beauty, and have a tendency to get carried away by ideas.<br>\nRomantics are usually good listeners. They are connected to their inner thoughts and feelings, are not afraid to express their emotions, and they like it when others share their own emotions with them. They like drama and tend to get bored with the old routine. They are usually in a relationship or are seeking one, typically being very creative in a relationship and the passionate partners. They see love as an important aspect of life, one that gives meaning to many other aspects. They usually like romantic movies, love songs, and other types of entertainment that portray an idealized version of reality.",
+            "tipical_likes": ["https://www.facebook.com/109496842402238", "https://www.facebook.com/146170172077530", "https://www.facebook.com/171629449542296", "https://www.facebook.com/117293298845", "https://www.facebook.com/295326420524497", "https://www.facebook.com/204558349574109", "https://www.facebook.com/215328615157408", "https://www.facebook.com/34951293052"],
+            "tipical_genders": ["female+"],
+            "age_min": 16,
+            "age_max": 37,
+            "related_genes": ["5", "6", "14"]
+        },
+        {
+            "id": "12",
+            "type": "Values",
+            "name": "Spiritual",
+            "description": "Spiritual persons are the ones whose highest priority is to be loving to oneself and others. A spiritual person cares about people, animals, and the planet.<br>\nEither, attending religious rituals or practicing meditation, belonging to a spiritual group or devotedly following mindful teachings, the Spirituals think about how they can help. Their thoughts are kind rather than judgmental toward themselves and toward others.<br>They tend to embrace such motives as love, peace, joy, truth and kindness.<br>Spiritual users online are socially active. They typically follow the topics related to the spiritual experience, esoteric subjects, self-awareness and self-help. They also enjoy soft music, documentary and reality TV, home and family-related products.",
+            "tipical_likes": ["https://www.facebook.com/45589536125", "https://www.facebook.com/188718061178383", "https://www.facebook.com/105433989565465", "https://www.facebook.com/140019036068417", "https://www.facebook.com/105675309465295", "https://www.facebook.com/36452161959", "https://www.facebook.com/543854275628660", "https://www.facebook.com/161839398780"],
+            "tipical_genders": ["female+"],
+            "age_min": 27,
+            "age_max": 55,
+            "related_genes": ["14", "17", "5"]
+        },
+        {
+            "id": "13",
+            "type": "Hobbies",
+            "name": "Sports Enthusiast",
+            "description": "Sports Enthusiasts are fond of sport or outdoor activities.<br>Enthusiastic about sports, these individuals are the fans of the wide variety of sport genres (football, Olympics, racing, etc) or devoted aficionados of a specific sport, league and/or team. Sporty people closely follow competitions, championships and sportive challenges, and are passionate about scores and results. They tend to attend sport events or watch them on television, like to engage in the related discussions with peer sport lovers.<br><br>Some Sports Enthusiasts are exhibiting sportsmanship themselves, engaging in sports activities on a semi-professional basis or taking an interest in own fitness (e.g. playing a game once a week, jogging, gym exercising, etc). They tend to like sports brands, follow sport-related publications, play sport-related computer games and appreciate athlete personalities.",
+            "tipical_likes": ["https://www.facebook.com/385633421558680", "https://www.facebook.com/156211407741624", "https://www.facebook.com/64637653943", "https://www.facebook.com/8245623462", "https://www.facebook.com/81221197163", "https://www.facebook.com/10911153761", "https://www.facebook.com/106011416097502"],
+            "tipical_genders": ["male+"],
+            "age_min": 18,
+            "age_max": 47,
+            "related_genes": ["0", "14", "16"]
+        },
+        {
+            "id": "14",
+            "type": "Lifestyle",
+            "name": "Modern Nester",
+            "description": "Modern Nesters are young professionals with means and ability to create the lifestyle they want. They are affluent and well educated, enjoying leisure and recreation. Active - financially, civically, and physically - they participate in a wide variety of public activities and sports, often travel extensively.<br>When in the city, they frequent restaurants and places of interest, attend performances, take part in family and community events, shop more frequently.<br>Modern Nesters invest in home building, interested in home décor,\nfurnishings and appliances.<br>They tend to be the consumers of natural or organic food as well as vitamins and dietary supplements. They would enjoy imported wine and truly appreciate a good cup of coffee.<br>Modern Nesters are 'plugged in' individuals, frequenting social network sites, shopping online, reading news and entertainment portals.",
+            "tipical_likes": ["https://www.facebook.com/202788966024", "https://www.facebook.com/97546408397", "https://www.facebook.com/188958934513916", "https://www.facebook.com/96578463374", "https://www.facebook.com/72571226018", "https://www.facebook.com/22893372268", "https://www.facebook.com/189818261082589", "https://www.facebook.com/434174436675167", "https://www.facebook.com/6797246895"],
+            "tipical_genders": ["male", "female"],
+            "age_min": 25,
+            "age_max": 47,
+            "related_genes": ["6", "10", "5"]
+        },
+        {
+            "id": "15",
+            "type": "Hobbies",
+            "name": "TV Spectator",
+            "description": "TV Spectators are devoted television watchers and they spend a considerable amount of time in front of their TV screen - they are, simply speaking, TV junkies. They are loyal to the series they love; they follow their plots closely and they usually identify with their main characters. Although they see it as a fun way to relax after a long day, TV Spectators tend to see television as more than a popular way of procrastinating - they see it as a great 'story telling' medium. They appreciate good series and may see them as an evolving and intriguing art form. Many spectators like to watch TV with their friends and family, while others prefer to be left alone when their favorite show is on.<br>\nUsually, TV Spectators follow a variety of genres on TV - from reality TV shows to the detective series, fantasy dramas and live news.",
+            "tipical_likes": ["https://www.facebook.com/113408673932", "https://www.facebook.com/57403415485", "https://www.facebook.com/58523373944", "https://www.facebook.com/6798562721", "https://www.facebook.com/489536651069106", "https://www.facebook.com/5991693871", "https://www.facebook.com/167555906615100", "https://www.facebook.com/432184900155860"],
+            "tipical_genders": ["male", "female"],
+            "age_min": 18,
+            "age_max": 55,
+            "related_genes": ["5", "14", "0"]
+        },
+        {
+            "id": "16",
+            "type": "Hobbies",
+            "name": "Movie Buff",
+            "description": "Movie Buffs represent people who have a great passion for cinema. They spend a lot of time on film entertainment, watching movies on premium movie channels, on the free video sharing sites and in the cinema theatres. Some Movie Buffs are true cinephiles, having developed a deep knowledge about the theory and history of cinematography, following film news and criticism.<br>\nMovie Buffs are hardly devoted to a single movie genre; instead, they got the fondness for the variety of kinds: from the greatest motion picture classics, world cinema, indie and contemporary films up to the latest blockbusters.<br>\nUsually, Movie Buffs feel passionately about filmmaking industry, with knowledge and appreciation of actors, actresses, directors and other related personalities.<br>\nOften wise, blogging and the social networking around cinema-related subjects is a big part of Movie Buff's activity. They participate in online discussions and follow the movie news.",
+            "tipical_likes": ["https://www.facebook.com/163239933778584", "https://www.facebook.com/106057162768533", "https://www.facebook.com/419106008146799", "https://www.facebook.com/105768302789341", "https://www.facebook.com/7148723514", "https://www.facebook.com/15925638948"],
+            "tipical_genders": ["female+"],
+            "age_min": 18,
+            "age_max": 60,
+            "related_genes": ["5", "14", "0"]
+        },
+        {
+            "id": "17",
+            "type": "Hobbies",
+            "name": "Music Lover",
+            "description": "People for whom music is a highly important aspect of their lives. They enjoy listening to their all time favorites, as well as discovering new artists and styles. Be it classical music, rock or Heavy metal, Music Lovers can talk about their favorite musicians or bands for hours. They usually share their favorite music online with their friends, and they use the web to discover new artists. Some Music Lovers play an instrument or even play in a band, but even if they don't, music for Music Lovers is much more than just a hobby.<br>\nMusic lovers tend to listen to music a lot across the day – while walking or driving, or being driven; while working or dreaming, with morning coffee or before falling asleep. True Music Lovers are agnostic to music styles and are believers in a 'good music' rather than being a fan of a specific genre. Many people of this type are the active users of music sharing and discovery social applications like Deezer, Jango, Spotify and the like.",
+            "tipical_likes": ["https://www.facebook.com/22516413022", "https://www.facebook.com/8305888286", "https://www.facebook.com/427275993997928", "https://www.facebook.com/15818120260", "https://www.facebook.com/299308616842040", "https://www.facebook.com/68093208973", "https://www.facebook.com/580618325313053", "https://www.facebook.com/6220048374", "https://www.facebook.com/9994477881"],
+            "tipical_genders": ["female", "male"],
+            "age_min": 18,
+            "age_max": 47,
+            "related_genes": ["5", "0", "6"]
+        },
+        {
+            "id": "18",
+            "type": "Hobbies",
+            "name": "Foodie",
+            "description": "Foodies appreciate good food and derive great enjoyment from new culinary discoveries, spends a keen amount of attention and energy on knowing the ingredients of food, the proper preparation of food, and finds great enjoyment in top-notch ingredients and exemplary preparation. They are always happy to discover a new restaurant, but also enjoy going back to their old favorite places to grab a bite to eat. For them food is much more than just a means to satisfy their hunger, it's a hobby, an expertise they’ve perfected throughout the years. They may be interested in the food industry and might enjoy tasting a local home brewed beer or trying a special kind of boutique wine or cheese. Many foodies cook themselves, and are known amongst their friends for their delicious cooking. Foodies tend to use the internet to learn about new foods and recipes, and to read about the new restaurants in town.<br>\nA Foodie is not necessarily a food snob, only enjoying delicacies and/or food items difficult to obtain and/or expensive foods; though, that is a variety of Foodie.\nFoodies tend to 'follow' celebrity chefs, restaurants, recipes and lifestyle-related social hubs like Pinterest.",
+            "tipical_likes": ["https://www.facebook.com/22516413022", "https://www.facebook.com/8305888286", "https://www.facebook.com/427275993997928", "https://www.facebook.com/15818120260", "https://www.facebook.com/299308616842040", "https://www.facebook.com/68093208973", "https://www.facebook.com/580618325313053", "https://www.facebook.com/6220048374", "https://www.facebook.com/9994477881"],
+            "tipical_genders": ["female+"],
+            "age_min": 25,
+            "age_max": 55,
+            "related_genes": ["14", "19", "3"]
+        },
+        {
+            "id": "19",
+            "type": "Hobbies",
+            "name": "Traveller",
+            "description": "Travelers love going around the globe, visiting foreign countries - at least, two countries a year - trying different foods and experiencing the international experience at its fullest. They like boarding airplanes heading towards distant destinations and getting off at a totally different time and place. Either for business, for holiday or for adventure, Travelers see globe-trotting as a fun and exciting experience, full of fascinating opportunities.<br>\nBe it ever-green hills, pristine beaches or busy urban hubs, Travelers enjoy exploring new surroundings and meeting people from different cultures, and they always have their next trip in mind. Travelers usually keep connections with international friends and acquaintances abroad.",
+            "tipical_likes": ["https://www.facebook.com/324826532457", "https://www.facebook.com/346132998748143", "https://www.facebook.com/6806028948", "https://www.facebook.com/169805070156", "https://www.facebook.com/140613102661909", "https://www.facebook.com/112790808731143", "https://www.facebook.com/250427858309354", "https://www.facebook.com/323271004355493", "https://www.facebook.com/156102854589620"],
+            "tipical_genders": ["female", "male"],
+            "age_min": 25,
+            "age_max": 55,
+            "related_genes": ["1", "10", "7"]
+        }
+
+    ]
+}

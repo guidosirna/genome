@@ -1,0 +1,35 @@
+{
+    "name": "grunt-elasticsearch",
+    "description": "ElasticSearch admin utils for grunt",
+    "version": "0.1.1",
+    "homepage": "https://github.com/dvloop/grunt-elasticsearch",
+    "author": {
+        "name": "nicolasgarfinkiel",
+        "url": "http://www.dvloop.com/"
+    },
+    "repository": {
+        "type": "ssh",
+        "url": "ssh://git@github.com:dvloop/grunt-elasticsearch.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dvloop/grunt-elasticsearch/issues"
+    },
+    "license": "MIT",
+    "main": "Gruntfile.js",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "dependencies": {
+        "adm-zip": "^0.4.4",
+        "elasticsearch": "^2.2.0",
+        "grunt": ">=0.4.0",
+        "lodash": "~2.4.1",
+        "synchronize": "~0.7.0"
+    },
+    "keywords": [
+        "elasticsearch",
+        "grunt",
+        "gruntplugin"
+    ],
+    "readmeFilename": "README.md"
+}
