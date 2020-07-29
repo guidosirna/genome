@@ -1,8 +1,6 @@
-shopear-genome
-==============
-
 # Shopear Genome: Inferencia y procesamiento de datos para la conformación de un perfil psicográfico
 ### 2015
+==============
 
 ## Descripción
 Los sistemas de recomendación están cambiando, así como está cambiando el contexto en el que operan y las necesidades de los usuarios que son sus consumidores. Acompañando una tendencia general, la experiencia de los usuarios consumidores de aplicaciones web, mobile, en distintos dispositivos y circunstancias, exigen al menos un nuevo análisis para definir un sistema de recomendaciones que presente una rápida y precisa respuesta a sus necesidades en el cambiante contexto en el que son consultados.
@@ -213,3 +211,40 @@ Rebel: "0.4",
   }
 }
 ```
+
+## Dependencias globales:
+
+- Nodejs v0.10+
+- ElasticSearch 1.2+
+- npm install grunt-cli -g
+
+Referencias sobre las operaciones de grunt tanto para el CLI como para la Web:
+
+### CLI:
+
+- **grunt es-init**: inicializa los índices, mappings y data en ElasticSearch.
+- **grunt es-put-mappings**: inicializa los mappings de ElasticSearch. Soporta un argumento de filtro para los mappings especificado. Ej.: grunt es-put-mappings - filter="subjects"
+- **grunt es-put-data**: inicializa los datos por defecto en ElasticSearch. Soporta un argumento de filtro para los datos especificado. Ej.: grunt es-put-data - filter="raw_subjects"
+
+### Web:
+
+- **grunt**: compila las vistas, scripts y styles.
+- **grunt-watch**: monitorea cambio en los archivos .ect, .js y .less y cuando suceden ejecuta grunt. (útil solo en momento de desarrollo).
+
+## Referencia CLI:
+
+Se ejecuta el programa de línea de consola desde el directorio cli mediante el intérprete de nodejs. Ej: node app.js ARGS
+Argumentos:
+
+- node app.js process -o retrieve-subjects: recupera los datos de FB para los ids cargados en raw_subjects. Si un ID en particular ya fue procesado, se chequea la última fecha de obtención de los datos, si es mayor a 7 días se vuelven a obtener.
+- node app.js process -o retrieve-genes: calcula la información de los genes precargados en base los likes típicos.
+- node app.js process -o process-genes: procesa los genes con la información obtenida mediante la operación retrieve-genes. Nota: antes de ejecutar este comando se debe haber ejecutar retrieve-genes.
+- node app.js process -o subjects: procesa los usuarios y calcula su gen en base a la información obtenida mediante el proceso retrieve-subjects. Nota: antes de ejecutar este comando se debe haber ejecutado retrieve-genes y retrieve-subjects.
+
+## Referencia Mappings:
+
+- raw_subjects: información en crudo de los usuarios. Inicialmente este tipo contiene solo los Ids de los usuarios, el resto de los datos son obtenidos mediante la operación retrieve-subjects.
+- sessions: sesiones en la web.
+- sg_categories: categorías de Shopear y sus relaciones a las categorías de FB.
+- sg_genes: Definición de genes.
+- subjects: información procesada de los usuarios. Este tipo se llena mediante la ejecución de process-subjects.
