@@ -1,0 +1,37 @@
+{{ extend 'master.ect' }}
+
+<div class="jumbotron">
+    <h1>My Genome</h1>
+
+</div>
+
+<div id="div_userdata">
+
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="page-header">
+            <h1>Prevailing Gene</h1>
+        </div>
+        <div>
+            <h2 id="title_gene"></h2>
+            <h3 id="sub_title_gene"></h3>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="page-header">
+            <h1>Gene composition</h1>
+        </div>
+
+        <div id="chart_gene_stats">
+            <svg></svg>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+{{ block 'scripts': }}
+<script type="text/javascript"> yepnope({ load: ['/js/vendor.js?rel=@@timestamp', '/js/d3.v3.js', '/js/nv.d3.min.js', '/js/me.js?rel=@@timestamp'] }); </script>
+{{ end }}

@@ -1,0 +1,146 @@
+{{ extend 'master.ect' }}
+
+<div class="jumbotron">
+    <h1>Shopear Genome</h1>
+
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        <div class="page-header">
+            <h1>API Examples</h1>
+            <ul>
+
+                <li>
+                    Get data requests
+                    <ul>
+                        <li><a target="_blank" href="/api/test/100000002056140/genome">/api/{appId}/{subjectId}/genome (200)</a></li>
+                        <li><a target="_blank" href="/api/test/100000008161056/genome">/api/{appId}/{subjectId}/genome (200)</a></li>
+                        <li><a target="_blank" href="/api/test/892170007/genome">/api/{appId}/{subjectId}/genome (202)</a></li>
+                        <li><a target="_blank" href="/api/test/1/genome">/api/{appId}/{subjectId}/genome (404)</a></li>
+                    </ul>
+                </li>
+                <li>
+                    Statistical requests
+                    <ul>
+                        <li><a target="_blank" href="/api/statistical/euclidean_distance/100000002056140/100000032415854">/api/statistical/euclidean_distance/{subjectId1}/{subjectId2}</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <button onclick="window.location.href='/me';" class="btn btn-primary btn-lg">See my Genoma</button>
+    </div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Scraping Stats</h1>
+    </div>
+
+    <div id="chart_scraping_stats">
+        <svg></svg>
+    </div>
+</div>
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Gender Stats</h1>
+    </div>
+
+    <div id="chart_gender_stats">
+        <svg></svg>
+    </div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Genome Category Stats</h1>
+    </div>
+
+    <div id="chart_sg_category_stats">
+        <svg></svg>
+    </div>
+</div>
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Facebook Category Stats</h1>
+    </div>
+
+    <div id="chart_fb_category_stats">
+        <svg></svg>
+    </div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Gene Stats</h1>
+    </div>
+
+    <div id="chart_gene_stats">
+        <svg></svg>
+    </div>
+</div>
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Gene Type Category Stats</h1>
+    </div>
+
+    <div id="chart_gene_type_stats">
+        <svg></svg>
+    </div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Gender Genome Category Stats</h1>
+    </div>
+
+    <div id="chart_gender_sg_category_stats" style="height: 500px">
+        <svg></svg>
+    </div>
+</div>
+<div class="col-sm-6">
+    <div class="page-header">
+        <h1>Gender Facebook Category Stats</h1>
+    </div>
+
+    <div id="chart_gender_fb_category_stats" style="height: 500px">
+        <svg></svg>
+    </div>
+</div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">Similarity Comparison</h3>
+    </div>
+    <div class="panel-body">
+        <form class="form-inline" role="form">
+            <h4>Euclidean comparison</h4>
+            <div class="form-group">
+                <input type="number" class="form-control" id="txtUserId1" placeholder="User ID 1" value="100000002056140"/>
+            </div>
+            <div class="form-group">
+                <input type="number" class="form-control" id="txtUserId2" placeholder="User ID 2" value="100000032415854"/>
+            </div>
+            <button type="button" class="btn btn-default" id="btnCalculate">Calculate</button>
+            <div class="form-group">
+                <div id="divSimilarityResult"></div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+{{ block 'scripts': }}
+<script
+type="text/javascript"> yepnope({ load: ['/js/vendor.js?rel=@@timestamp', '/js/d3.v3.js', '/js/nv.d3.min.js', '/js/index.js?rel=@@timestamp'] }); </script>
+{{ end }}
