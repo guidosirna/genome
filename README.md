@@ -1,5 +1,5 @@
-# Shopear Genome: Procesamiento de datos de comportamiento para la conformación de un perfil psicográfico
-### 2015
+# Shopper Genome
+### Procesamiento de datos de comportamiento para la conformación de un perfil psicográfico
 ==============
 
 ## Descripción
@@ -248,3 +248,7 @@ Argumentos:
 - sg_categories: categorías de Shopear y sus relaciones a las categorías de FB.
 - sg_genes: Definición de genes.
 - subjects: información procesada de los usuarios. Este tipo se llena mediante la ejecución de process-subjects.
+
+Meta
+----
+Guido Sirna - [@guidosirna](https://twitter.com/guidosirna) - https://github.com/guidosirna/genome
