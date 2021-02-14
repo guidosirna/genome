@@ -1,5 +1,5 @@
 # Shopper Genome
-### Procesamiento de datos de comportamiento para la conformación de un perfil psicográfico
+### Procesamiento de datos de comportamiento para la conformación de un perfil psicográfico del comprador
 
 ## Descripción
 Los sistemas de recomendación están cambiando, así como está cambiando el contexto en el que operan y las necesidades de los usuarios que son sus consumidores. Acompañando una tendencia general, la experiencia de los usuarios consumidores de aplicaciones web, mobile, en distintos dispositivos y circunstancias, exigen al menos un nuevo análisis para definir un sistema de recomendaciones que presente una rápida y precisa respuesta a sus necesidades en el cambiante contexto en el que son consultados.
